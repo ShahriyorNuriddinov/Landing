@@ -55,6 +55,13 @@ const en = {
       "Start learning English online in live classes with qualified EC teachers and students  from all over the world.",
     prisingper: " per month",
   },
+ about: {
+  title: "Contact Us",
+  paragraph:
+    "Discover your current English level by taking our free online English test. Sign up to our newsletter for learning tips and free resources.",
+  button: "Subscribe",
+  inputPlaceholder: "Enter your email"
+}
 };
 
 export default en;

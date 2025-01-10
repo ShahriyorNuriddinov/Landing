@@ -57,6 +57,14 @@ const uz = {
       "Butun dunyodan kelgan talabalar bilan birga malakali EC o‘qituvchilari tomonidan olib boriladigan jonli onlayn darslar orqali ingliz tilini o‘rganishni boshlang.",
     prisingper: " oyiga",
   },
+  about: {
+  title: "Biz bilan bog‘laning",
+  paragraph:
+    "Bepul onlayn ingliz tili testimiz orqali hozirgi bilim darajangizni aniqlang. O‘rganish bo‘yicha foydali maslahatlar va bepul resurslardan xabardor bo‘lish uchun yangiliklarimizga obuna bo‘ling.",
+  button: "Obuna bo‘lish",
+  inputPlaceholder: "Elektron pochtangizni kiriting"
+}
+
 };
 
 export default uz;
